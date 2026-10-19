@@ -8,6 +8,9 @@ class Person:
     def display(self):
         print(f"Name: {self.name}, Age: {self.age}")
 
+    def hello(self):
+        print(f"Hello, my name is {self.name} and I am {self.age} years old.")    
+
 class Student(Person):
     def __init__(self, name, age, student_id):
         super().__init__(name, age)
@@ -22,3 +25,4 @@ s.display()
 
 p= Person("Bob", 30)
 p.display()
+s.hello()
