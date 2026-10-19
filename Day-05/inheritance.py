@@ -26,3 +26,5 @@ s.display()
 p= Person("Bob", 30)
 p.display()
 s.hello()
+
+print(p.name, s.name)
