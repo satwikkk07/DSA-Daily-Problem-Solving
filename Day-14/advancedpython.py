@@ -1,2 +1,4 @@
 #Advanced python
-#Virtual Environment
+#Virtual Environment 
+# LLM -Large language Modela
+# RAG -
