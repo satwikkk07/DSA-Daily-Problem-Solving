@@ -1,4 +1,4 @@
 #Advanced python
 #Virtual Environment 
 # LLM -Large language Modela
-# RAG -
+# RAG - Retreival augmented Generation
